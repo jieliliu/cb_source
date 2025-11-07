@@ -2,15 +2,20 @@
 title: About
 layout: about
 permalink: /about.html
+
+<!--
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+-->
 ---
 
+<!--
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+-->
 
 ## About the Collection
 
@@ -29,19 +34,17 @@ The Goodreads Choice Awards 2024 Winners Collection celebrates the books that ca
 
 Each book in this collection represents the voices, themes, and stories that resonated most with the global reading community in 2024. From debut authors to established literary icons, these works reflect the diversity of genres and the evolving interests of readers in the contemporary literary landscape.
 
-Purpose and Scope
+### Purpose and Scope
 
 The purpose of this collection is to document and showcase the cultural and literary highlights of 2024 as recognized by the Goodreads readership. By compiling these award-winning books, the collection provides an accessible record of popular reading trends and reader engagement in the digital age.
 
-The collection includes:
+### The collection includes
 
-Metadata and images of each winning title
+1. Metadata and images of each winning title
+2. Author information and publication details
+3. Genre categorization for browsing and discovery
 
-Author information and publication details
-
-Genre categorization for browsing and discovery
-
-Audience
+### Audience
 
 This collection is intended for:
 
@@ -51,7 +54,7 @@ Librarians and educators seeking insights into popular reading trends
 
 Researchers examining patterns in reader choice and literary recognition
 
-Acknowledgments
+### Acknowledgments
 
 Data for this collection was sourced from the official Goodreads Choice Awards 2024 results page.
 
