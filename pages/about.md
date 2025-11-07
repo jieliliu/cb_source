@@ -25,8 +25,6 @@ The template repository features four objects from the University of Idaho Libra
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 -->
 
-## About the Collection
-
 The Goodreads Choice Awards 2024 Winners Collection celebrates the books that captured readers’ imaginations throughout the year. Curated from the official Goodreads Choice Awards results, this digital collection brings together the top-voted titles across genres including fiction, nonfiction, fantasy, romance, mystery, and science fiction.
 
 Each book in this collection represents the voices, themes, and stories that resonated most with the global reading community in 2024. From debut authors to established literary icons, these works reflect the diversity of genres and the evolving interests of readers in the contemporary literary landscape.
